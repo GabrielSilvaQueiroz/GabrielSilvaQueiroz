@@ -1,4 +1,4 @@
-<h1  align="center"> Oi, sou Gabriel Queiroz, bem-vindo ao meu GitHub! 😀 </h1>
+<h1  align="center"> Olá, sou Gabriel Queiroz, bem-vindo ao meu GitHub! 😀 </h1>
 <h3 align="center"> Sou um desenvolvedor web júnior, atualmente estudando JavaScript e futuramente iniciando em React, com o objetivo de ingressar pela primeira vez no mercado de trabalho. </h3>
   
  <br/> 
@@ -8,7 +8,7 @@
 
 - 💬 Pergunte-me sobre: **HTML, CSS, MySQL e Java.**
 
-- 📫 Como entrar em contato: **gabrielsq@yahoo.com.br**
+- 📫 Entre em contato: **gabrielsq@yahoo.com.br**
 
 
 
