@@ -29,4 +29,4 @@
 </p>
 
 
- [![Gabriel Queiroz GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSilvaQueiroz&show_icons=true&theme=transparent&hide=stars,issues,contribs)](https://github.com/GabrielSilvaQueiroz/github-readme-stats)
+[![Gabriel Queiroz GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilvaQueiroz)](https://github.com/anuraghazra/github-readme-stats)
