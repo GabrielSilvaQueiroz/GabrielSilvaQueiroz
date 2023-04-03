@@ -15,7 +15,7 @@
 <h3 align="left"> Conecte-se comigo 🤝</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/gabriel-queiroz-8b6aa4240/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-gabriel-queiroz"/> </a> <a href="https://www.instagram.com/_gabrielsqz/" target="blank"> <img align= "center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-gabriel-queiroz"/>
+<a href="https://www.linkedin.com/in/gabrielsilvaqueiroz/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-gabriel-queiroz"/> </a> <a href="https://www.instagram.com/_gabrielsqz/" target="blank"> <img align= "center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-gabriel-queiroz"/>
 
   
 </p>
