@@ -4,7 +4,7 @@
  <br/> 
 
 
-- 🌱 Atualmente aprendendo: **JavaScript.** 
+- 🌱 Atualmente aprendendo: **Node.JS.** 
 
 - 💬 Pergunte-me sobre: **HTML, CSS, MySQL e Java.**
 
