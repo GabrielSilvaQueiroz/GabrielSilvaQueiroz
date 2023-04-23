@@ -1,12 +1,9 @@
 <h1  align="center"> Olá, sou Gabriel Queiroz, bem-vindo ao meu GitHub! 😀 </h1>
-<h3 align="center"> Sou um desenvolvedor web júnior, atualmente estudando JavaScript e futuramente iniciando em React, com o objetivo de ingressar pela primeira vez no mercado de trabalho. </h3>
+<h3 align="center"> Sou um desenvolvedor web que visa impactar a qualidade de vida das pessoas através da tecnologia, com o futuro objetivo de me tornar full-stack. </h3>
   
  <br/> 
 
-
-- 🌱 Atualmente aprendendo: **Node.JS.** 
-
-- 💬 Pergunte-me sobre: **HTML, CSS, MySQL e Java.**
+- 💬 Pergunte-me sobre: **HTML, CSS, JavaScript, Node.JS, MySQL e Java.**
 
 - 📫 Entre em contato: **gabrielsq@yahoo.com.br**
 
