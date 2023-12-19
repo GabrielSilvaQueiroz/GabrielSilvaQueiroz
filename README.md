@@ -3,7 +3,7 @@
   
  <br/> 
 
-- 💬 Pergunte-me sobre: **HTML, CSS, JavaScript, Node.JS, MySQL e Java.**
+- 💬 Pergunte-me sobre: **HTML, CSS, JavaScript, React.js, Node.js, MongoDB, SQL, Python e Java.**
 
 - 📫 Entre em contato: **gabrielsq@yahoo.com.br**
 
