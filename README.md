@@ -1,9 +1,11 @@
 <h1  align="center"> Olá, sou Gabriel Queiroz, bem-vindo ao meu GitHub! 😀 </h1>
-<h3 align="center"> Sou um desenvolvedor web que visa impactar a qualidade de vida das pessoas através da tecnologia, com o futuro objetivo de me tornar full-stack. </h3>
+<h3 align="center"> Sou um desenvolvedor web que visa impactar a qualidade de vida das pessoas através da tecnologia. </h3>
   
  <br/> 
 
-- 💬 Pergunte-me sobre: **HTML, CSS, JavaScript, React.js, Node.js, MongoDB, SQL, Python e Java.**
+![](https://komarev.com/ghpvc/?username=GabrielSilvaQueiroz&color=blueviolet)
+
+- 💬 Pergunte-me sobre: **HTML, CSS, JavaScript, React.js, Node.js, MongoDB, SQL e TypeScript.**
 
 - 📫 Entre em contato: **gabrielsq@yahoo.com.br**
 
