@@ -7,7 +7,7 @@
 <br>
 <br>
 - 💬 Pergunte-me sobre: **HTML, CSS, JavaScript, React.js, Node.js, MongoDB e SQL.**
-- 📚 Estou estudando: TypeScript e Prisma.
+- 📚 Estou estudando: **TypeScript e Prisma.**
 - 📫 Entre em contato: **gabrielsq@yahoo.com.br**
 
 
