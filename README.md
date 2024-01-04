@@ -6,8 +6,8 @@
 ![](https://komarev.com/ghpvc/?username=GabrielSilvaQueiroz&color=blueviolet)
 <br>
 <br>
-- 💬 Pergunte-me sobre: **HTML, CSS, JavaScript, React.js, Node.js, MongoDB, SQL e TypeScript.**
-
+- 💬 Pergunte-me sobre: **HTML, CSS, JavaScript, React.js, Node.js, MongoDB, SQL.**
+- 📚 Estou estudando: TypeScript e Prisma.
 - 📫 Entre em contato: **gabrielsq@yahoo.com.br**
 
 
