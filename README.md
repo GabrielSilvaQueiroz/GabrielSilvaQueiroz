@@ -5,7 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=GabrielSilvaQueiroz&color=blueviolet)
 <br>
-<br>
 - 📚 Estou estudando: **TypeScript e Prisma.**
 - 📫 Entre em contato: **gabrielsq@yahoo.com.br**
 
