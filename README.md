@@ -1,4 +1,4 @@
-<h1  align="center"> Olá, sou Gabriel Queiroz, bem-vindo ao meu GitHub! 😀 </h1>
+<h1  align="center"> Olá, sou Gabriel Queiroz, bem-vindo ao meu GitHub! 👋 </h1>
 <h3 align="center"> Sou um desenvolvedor web que visa impactar a qualidade de vida das pessoas através da tecnologia. </h3>
   
  <br/> 
